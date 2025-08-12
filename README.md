@@ -131,17 +131,3 @@ text-processor/
 
 ---
 
-##  deliverables
-
-- **Python Code:** A single Python file (`main.py`) containing the implementation of all described functionalities.
-- **Brief Report (Optional):** A document detailing design choices, implementation details, and any challenges encountered during the project.
-
----
-
-## 🏆 Bonus Points
-
-This section is for any additional features implemented beyond the core requirements.
-- *[Describe any bonus features you implemented here, e.g., adding a word count feature, implementing a search/replace function, or allowing the user to choose which analysis to run.]*
-
----
-
